@@ -1,0 +1,9 @@
+.img img{
+    border:50%;
+    height:50px;
+    width: 50px;
+}
+
+table td {
+    border:1px solid black;
+}
